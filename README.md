@@ -1,8 +1,8 @@
 # facerec
 
 Face detection, 128-dimensional face embeddings, face comparison, and
-identity classification — a modernized re-implementation of
-[soumith/openface](https://github.com/soumith/openface) (CMU's OpenFace),
+identity classification — a modernized -implementation of
+openface(CMU's OpenFace),
 rebuilt on `dlib`/`face_recognition` instead of OpenFace's Torch7/Lua
 `nn4.small2` network. Same idea (a deep embedding network trained so same
 -person faces land close together and different people land far apart),
