@@ -1,0 +1,5 @@
+dlib
+face_recognition
+numpy
+scikit-learn
+opencv-python
